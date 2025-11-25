@@ -1,4 +1,6 @@
-Used to find duplicate files on any folder and delete them leaving the latest modifed
+
+
+#Used to find duplicate files on any folder and delete them leaving the latest modifed
 
   Instructions :
   1. Open the dist/dup_finder_by_filename.exe
